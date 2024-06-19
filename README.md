@@ -1,7 +1,6 @@
 - Hello, I’m @fanqasy
 - I’m interested in Minecraft Plugins
-- I’m currently learning Java
-- How to reach me Kacper#9354
+- I’m currently learning Java, Lua(U) and Python
 
 <!---
 fanqasy/fanqasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
